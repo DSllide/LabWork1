@@ -1,5 +1,0 @@
-﻿  C++Lab1Ex3.cpp
-F:\c++projects\C++Lab1Ex3\C++Lab1Ex3.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-F:\c++projects\C++Lab1Ex3\C++Lab1Ex3.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-F:\c++projects\C++Lab1Ex3\C++Lab1Ex3.cpp(7,5): error C3861: 'SetConsoleCP': identifier not found
-F:\c++projects\C++Lab1Ex3\C++Lab1Ex3.cpp(8,5): error C3861: 'SetConsoleOutputCP': identifier not found
